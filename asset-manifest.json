@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacr-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/reacr-deploy/static/js/main.8ac09fbe.js",
+    "static/js/787.d6cb1aba.chunk.js": "/reacr-deploy/static/js/787.d6cb1aba.chunk.js",
+    "index.html": "/reacr-deploy/index.html",
+    "main.073c9b0a.css.map": "/reacr-deploy/static/css/main.073c9b0a.css.map",
+    "main.8ac09fbe.js.map": "/reacr-deploy/static/js/main.8ac09fbe.js.map",
+    "787.d6cb1aba.chunk.js.map": "/reacr-deploy/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ac09fbe.js"
+  ]
+}
